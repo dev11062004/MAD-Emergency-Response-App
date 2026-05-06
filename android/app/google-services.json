@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "151842399616",
+    "firebase_url": "https://emergency-response-86319-default-rtdb.firebaseio.com",
+    "project_id": "emergency-response-86319",
+    "storage_bucket": "emergency-response-86319.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151842399616:android:5b8596ce4e7351276ecd65",
+        "android_client_info": {
+          "package_name": "com.atinity.public_emergency_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAS8845RjQsdfHqDb8Toy70YpCP_hCLxRM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
